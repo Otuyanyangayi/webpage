@@ -1,0 +1,26 @@
+body{
+    background-image: url('images (1).jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.rounded-circle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.d-block {
+    height: 22rem;
+    
+}
+p{
+   background-color: rgb(16, 144, 54);
+}
+
+  
